@@ -2,11 +2,11 @@
   "migIndex": 1,
   "data": [
     {
-      "path": "android/app/src/assets/fonts/Jost-Bold.ttf",
+      "path": "src/assets/fonts/Jost-Bold.ttf",
       "sha1": "4a97f173bbc2a8579c46bcfb0066e50197c32e4d"
     },
     {
-      "path": "android/app/src/assets/fonts/Jost-VariableFont_wght.ttf",
+      "path": "src/assets/fonts/Jost-VariableFont_wght.ttf",
       "sha1": "57a3591e1adbd615a4368353b1a15c2c895ab131"
     }
   ]
